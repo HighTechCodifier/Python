@@ -13,7 +13,7 @@ Game Rules:
         ¤ Scissors beats bag.
         ¤ Bag beats rock.
         ¤ If both choose the same, it's a tie.
-    ¤ You can keep playing as many rounds as you like until you decide to quit.
+        ¤ You can keep playing as many rounds as you like until you decide to quit.
 
 Files in the Project:
     1. rock_scissors_bag_game.py: This file contains the game logic, such as the rules and how the computer chooses its move.
